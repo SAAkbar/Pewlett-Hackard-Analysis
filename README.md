@@ -18,8 +18,9 @@ The purpose of this assignment was to help Pewlett Hackard with their retirement
 
 ![image](https://user-images.githubusercontent.com/76131315/107858986-d953bb80-6e04-11eb-825a-7c513528b9c8.png)
 
-•	Mentorship_eligibility shows the employee number, first and last name, date of birth, their current title and the time period they had this title for, for employees born in 1965. (Preview seen below) This shows those who are born in 1965 and what positions they are in, this helps because we know that they will likely retire in around 10 years so they can help mentor others. Take employee 10095 Hilari Morton,  
+•	Mentorship_eligibility shows the employee number, first and last name, date of birth, their current title and the time period they had this title for, for employees born in 1965. (Preview seen below) This shows those who are born in 1965 and what positions they are in, this helps because we know that they will likely retire in around 10 years so they can help mentor others. Take employee 10095 Hilari Morton, who can mentor in the Senior Staff position as she has been working there since 1994.
 
+![image](https://user-images.githubusercontent.com/76131315/107881055-64d65680-6eb0-11eb-9101-f1888dcc94f5.png)
 
 ## Summary
 
